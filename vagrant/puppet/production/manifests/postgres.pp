@@ -13,18 +13,18 @@ class postgres {
     postgres_password          => 'password',
   }
 
-  postgresql::server::role { 'bonker':
+  postgresql::server::role { 'wallaby':
     connection_limit => -1,
     createdb         => true,
     createrole       => false,
-    password_hash    => postgresql_password('bonker', 'bonker'),
+    password_hash    => postgresql_password('wallaby', 'wallaby'),
   }
 
   postgresql::server::database {
-    'bonker_test':
-      owner => 'bonker';
-    'bonker_dev':
-      owner => 'bonker';
+    'walla_test':
+      owner => 'wallaby';
+    'walla_dev':
+      owner => 'wallaby';
   }
 
 }

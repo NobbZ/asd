@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/deps/phoenix_pubsub/.iml" filepath="$PROJECT_DIR$/deps/phoenix_pubsub/.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/data/data.iml" filepath="$PROJECT_DIR$/apps/data/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/gettext/gettext.iml" filepath="$PROJECT_DIR$/deps/gettext/gettext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/mime/mime.iml" filepath="$PROJECT_DIR$/deps/mime/mime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/phoenix/phoenix.iml" filepath="$PROJECT_DIR$/deps/phoenix/phoenix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/phoenix_html/phoenixhtml.iml" filepath="$PROJECT_DIR$/deps/phoenix_html/phoenixhtml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/phoenix_live_reload/phoenixlivereload.iml" filepath="$PROJECT_DIR$/deps/phoenix_live_reload/phoenixlivereload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/plug/plug.iml" filepath="$PROJECT_DIR$/deps/plug/plug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/poison/poison.iml" filepath="$PROJECT_DIR$/deps/poison/poison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wallabyexample.iml" filepath="$PROJECT_DIR$/wallabyexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/web/web.iml" filepath="$PROJECT_DIR$/apps/web/web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Norbert/personal/wallaby_example","disabled":false,"__vagrantfile":true},"/tmp/vagrant-puppet/environments":{"owner":"root","nfs__quiet":true,"guestpath":"/tmp/vagrant-puppet/environments","hostpath":"C:/Users/Norbert/personal/wallaby_example/vagrant/puppet","disabled":false,"__vagrantfile":true}}}
